@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffde01</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryYellowDark">#e27a3f</color>
+    <color name="colorPrimaryYellowFlat">#ffcc01</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorButton">#1ba0e1</color>
+    <color name="colorButtonPressed">#FF2081B1</color>
+
+    <color name="colorAccent">#018381</color>
+    <color name="colorAccentOpacity">#20ffde01</color>
+    <color name="colorBg">#fbf7db</color>
+
+    <color name="colorGray">#d4d4d4</color>
+
+    <!--FORM MASTER-->
+    <color name="colorFormMasterHeaderBackground">@color/colorPrimaryDark</color>
+    <color name="colorFormMasterHeaderText">@color/colorWhite</color>
+    <color name="colorFormMasterElementBackground">#FFFFFF</color>
+    <color name="colorFormMasterElementTextTitle">#222222</color>
+    <color name="colorFormMasterElementTextValue">#000000</color>
+    <color name="colorFormMasterDivider">#DDDDDD</color>
+
+</resources>

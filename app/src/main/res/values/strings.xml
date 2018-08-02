@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ipro</string>
+
+    <!--list main menu title-->
+    <string name="menu1">Uji Kordinasi Proteksi</string>
+    <string name="menu2">Perencanaan Setting Proteksi</string>
+    <string name="menu3">Konversi Hitung t dan Tms</string>
+    <string name="menu4">Database Setting</string>
+
+</resources>
